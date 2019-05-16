@@ -1,0 +1,79 @@
+.el-step__title{
+    text-indent: -30px;
+}
+.comm-header{
+    height: 80px;
+    line-height: 80px;
+    box-shadow:0px 1px 0px 0px rgba(224,234,241,1);
+}
+
+.el-upload--picture-card{
+    width:112px!important;
+    height:112px!important;
+    line-height: 112px!important;
+    display: flex;
+    justify-content: center!important;
+    align-items: center!important;
+  }
+
+  .el-upload-list__item{
+    width:112px!important;
+    height:112px!important;
+  }
+
+  .ivu-upload .ivu-upload-select{
+    width: 100%!important;
+  }
+
+  .next-btn{
+    width:200px!important;
+    height:40px!important;
+    background:rgba(59,196,146,1)!important;
+    border-radius:28px!important;
+  }
+.pre-btn{
+   width:200px!important;
+    height:40px!important;
+    border-radius:28px!important;
+    border:1px solid rgba(131,143,153,1)!important;
+    color:#838F99!important;
+}
+  .l-border-title{
+    font-size:18px!important;
+    font-family:PingFangSC-Semibold!important;
+    font-weight:600!important;
+    color:rgba(44,45,58,1)!important;
+    line-height:28px!important;
+    padding-left: 10px!important;
+    border-left: 2px solid rgba(59,196,146,1)!important;
+    margin-bottom: 15px;
+  }
+
+  .el-collapse-item__header{
+    font-size:18px!important;
+    font-family:PingFangSC-Semibold!important;
+    font-weight:600!important;
+    color:rgba(44,45,58,1)!important;
+  }
+
+  .setting-userInfo span .el-input__inner{
+    height: 30px!important;
+  }
+
+  .setting-userInfo span .el-upload--picture-card{
+    width:60px!important;
+    height:60px!important;
+    line-height: 60px!important;
+    display: flex;
+    justify-content: center!important;
+    align-items: center!important;
+  }
+
+  .setting-userInfo span .el-upload-list__item{
+    width:60px!important;
+    height:60px!important;
+  }
+
+  .setting-userInfo span .ivu-upload .ivu-upload-select{
+    width: 100%!important;
+  }
