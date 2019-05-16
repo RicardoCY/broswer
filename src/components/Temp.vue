@@ -1,4 +1,5 @@
 <template>
+<!-- 这是一个模板文件 -->
   <div class="index">
   <p class="salary_time">{{salary_time}}</p>
   <p class="update_time">{{update_time}}</p>
